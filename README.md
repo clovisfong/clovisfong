@@ -10,6 +10,8 @@ Passionate about value creation, I’m excited to work on ambitious project with
 
 Known for being focused and resourceful, I’m all about delivering high-quality working codes through my leadership and work ethics.
 
+Let's connect and have a chat at [LinkedIn](https://www.linkedin.com/in/fongclovis/)!
+
 <br>
 
 ### Check out my recent work!
