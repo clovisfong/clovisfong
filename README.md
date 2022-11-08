@@ -14,6 +14,12 @@ Let's connect and have a chat at [LinkedIn](https://www.linkedin.com/in/fongclov
 
 <br>
 
+### What's in my toolkit?
+
+Javascript, Typescript, React JS, Express, Node.js, Mongoose ODM, MongoDB, Vite, Python, Flask, PostgreSQL, Basic SQL, Material-UI, CSS, HTML, Git, REST API
+
+<br>
+
 ### Check out my recent work!
 
 [<strong>Checkmate</strong>](https://checkmate-two.vercel.app/) 📈
