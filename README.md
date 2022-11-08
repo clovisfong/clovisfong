@@ -4,7 +4,7 @@
 <strong><em>"I love hearing perspectives and I seek growth through exploration and perseverance."</em></strong>
 <br><br>
 
-A highly-driven Full Stack Developer who enjoys solving real-world problems in logical and practical ways. 
+A highly-driven Full Stack Developer who enjoys solving business problems in logical and practical ways. 
 
 Passionate about value creation, I’m excited to work on ambitious project with positive people to create innovative technological solutions that meet business goals.
 
