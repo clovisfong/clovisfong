@@ -36,4 +36,4 @@ Read crypto transactions like a storybook. Simple Crypto is a crypto wallet trac
 
 [<strong>Rebound</strong>](https://rebound.vercel.app/) 🕹️
 <br>
-Getting bored on your flight? Rebound is an interactive single player game whereby the player rebounds a ball with the moving bar to destory recurring blocks.
+Getting bored on your flight? Rebound is an interactive single player game whereby the player rebounds a ball with the moving bar to destroy recurring blocks.
