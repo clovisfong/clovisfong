@@ -4,11 +4,11 @@
 <strong><em>"I love hearing perspectives and I seek growth through exploration and perseverance."</em></strong>
 <br><br>
 
-A highly-driven Full Stack Developer who enjoys solving business problems in logical and practical ways. 
+A results-oriented Full Stack Developer who enjoys solving business problems using logical and practical approaches. 
 
 Passionate about value creation, I’m excited to work on ambitious project with positive people to create innovative technological solutions that meet business goals.
 
-Known for being focused and resourceful, I’m all about delivering high-quality working codes through my leadership and work ethics.
+Known for being focused and resourceful, I’m confident in my work ethic to deliver impactful and forward-thinking solutions.
 
 Let's connect and have a chat at [LinkedIn](https://www.linkedin.com/in/fongclovis/)!
 
@@ -16,7 +16,9 @@ Let's connect and have a chat at [LinkedIn](https://www.linkedin.com/in/fongclov
 
 ### What's in my toolkit?
 
-Javascript, Typescript, React JS, Express, Node.js, Mongoose ODM, MongoDB, Vite, Python, Flask, PostgreSQL, Basic SQL, Material-UI, CSS, HTML, Git, REST API
+Leadership, Business Logic, Communication, Teamwork
+
+Javascript, Typescript, React JS, Node.js, MongoDB, Vite, C#, .NET, MSSQL, Python, Flask, PostgreSQL, Material-UI, CSS, Git, REST API, Jenkins, Aldon, Control-M, Object-Oriented Programming, Software design and scalability
 
 <br>
 
